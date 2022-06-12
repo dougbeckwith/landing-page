@@ -10,12 +10,12 @@ const SignUp = () => {
       className='w-full py-[80px] lg:py-[110px] bg-white text-lg'>
       <div className='container m-auto flex flex-col px-5 lg:flex-row lg:justify-between'>
         <div className='lg:w-2/5 2xl:w-[700px] w-full'>
-          <p>Buy & Sell Crypto 24/7 using your registered accounts</p>
+          <p>Buy & sell Crypto 24/7 using your registered accounts</p>
           <p className='text-3xl sm:text-4xl md:text-5xl font-bold py-3'>
             Invest in Cryptocurreny with Your TFSA
           </p>
           <p className='pb-4'>
-            Buy, Sell, and store hundreds of cryptocurrencies
+            Buy, sell, and store hundreds of cryptocurrencies
           </p>
           <div className='flex flex-col gap-2'>
             <Input type={'text'} placeholder={'Enter your email'} />
