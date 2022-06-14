@@ -7,6 +7,7 @@ Built a landing page that can be used to get clients interested in investing and
     <img src="https://imgur.com/ApVIfUF"/>
   </kbd>
 </div>
+[Imgur](https://i.imgur.com/ApVIfUF.png)
 
 ### Built with
 
